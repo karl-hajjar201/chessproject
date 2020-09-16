@@ -1,0 +1,6 @@
+Hey graders! so for lines of code we are pretty sure we are over the limit 
+however when running make clean then cloc . on one of our machines we get a 
+different number than the other 2 members. This is a difference of ~880 vs 950+.
+
+Just for your information we mostly believe that we have acheived the scope of
+the project but we are sorry if these values are incorrect we are sorry.
